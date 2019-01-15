@@ -12,7 +12,5 @@
 		System.out.println("Good Bye again  :)");
 		System.out.println("See you next poll :)");
 		
-		
-
-	 }	 
+	}	 
  }
