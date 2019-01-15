@@ -7,3 +7,5 @@ Polling of repo on post-push (Not Triggering) Can't be done locally using git ho
 		
 Polling of repo on post-commit (Giving error "error: cannot spawn .git/hooks/post-commit: No error"). 
 		Placing a shebang -> #!/bin/sh at the top of the post-commit hook fixed the issue (Working).
+		
+		
