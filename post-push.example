@@ -1,1 +1,0 @@
-curl http://<HOST>:<PORT>/git/notifyCommit?url=https://github.com/<GIT ACCOUNT>/<GIT REPO>
